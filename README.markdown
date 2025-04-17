@@ -28,8 +28,8 @@ To deploy and interact with the BrightToken contract, follow these steps:
 
 2. **Clone the Repository**:
    ```bash
-   git clone https://github.com/your-username/bright-token.git
-   cd bright-token
+   git clone [https://github.com/your-username/bright-token.git](https://github.com/jobayerhoquesiddique/ERC-20-Token-Smart-Contract)
+   cd ERC-20-Token-Smart-Contract
    ```
 
 3. **Install Dependencies**:
@@ -124,9 +124,9 @@ Contributions are welcome! Please follow these steps:
 This project is licensed under the [MIT License](LICENSE). See the LICENSE file for details.
 
 ## 🌐 Connect
-- 📧 **Email**: your-email@example.com
-- 🐦 **X**: [@your-username](https://x.com/your-username)
-- 🌍 **Website**: [your-website.com](https://your-website.com)
+- 📧 **Email**: jobayerhoquesiddique@gmail.com
+- 🐦 **X**: jobayerhoquesiddique
+- 🌍 **Website**: linktree.com/jobayerhoquesiddique
 
 ---
 
